@@ -1,10 +1,7 @@
-# Slides By Suraj Narwade
-
-
 ### FOSSASIA 2019
 
 Topic: `Unleashing the power of Kubectl`
 
-Slides: http://fossasia2019.suraj.pro
+Slides: [http://fossasia2019.suraj.pro](http://fossasia2019.suraj.pro)
 
-Event: https://2019.fossasia.org/event/schedule.html#4871
+Event: [https://2019.fossasia.org/event/schedule.html#4871](https://2019.fossasia.org/event/schedule.html#4871)
