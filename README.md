@@ -2,7 +2,7 @@
     * Topic: [Unleashing the power of Kubectl]((https://2019.fossasia.org/event/schedule.html#4871))
     * [Event](https://2019.fossasia.org)
     * [Slides](http://fossasia2019.suraj.pro)
-    * [Video]()
+    * [Video](https://youtu.be/I3u4ymcCgAQ)
 
 <br/>
 - **FOSSASIA 2018** 
